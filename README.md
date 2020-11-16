@@ -53,9 +53,6 @@ Tạo 1 web app để đăng ký và nhận diện khuôn mặt
     - 22/11~: Ban tổ chức kết thúc cuộc thi và chấm điểm
     
 7. Phương thức code và nộp bài
-    - Các bạn fork code từ github của ban tổ chức
-    
-    https://github.com/HACHIX-CORPORATION/FaceRecognitionContest
     - Sau đó các bạn thực hiện code trên github của mình và thông báo cho ban tổ chức
     - Những nội dung bạn phải nộp bài qua github gồm có
         - source code
